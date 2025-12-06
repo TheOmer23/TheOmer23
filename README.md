@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOmer23&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Don't%20worry.%20Just%20git%20push%20origin%20main%20--force,%20what's%20the%20worst%20that%20could%20happen%3F%0A%0A%20%20%20%20%20%20%20%20%20—%20Omer%20Har-Zvi%2C%201st%20year%20C.S%20student)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Don't%20worry.%20Just%20git%20push%20origin%20main%20--force,%20what's%20the%20worst%20that%20could%20happen%3F)
 
 
 ### 🔝 Top Contributed Repo
